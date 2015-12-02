@@ -16,6 +16,9 @@ Color Palette
 | Blue | \#4DBFE6  | 77 191 230 |
 | Violet | \#C792EA  | 199 146 234 |
 
+## Usage ##
+下载.jar格式的主题，打开IDEA，点击Import Settings，然后选择下载的主题即可。
+
 ## Screen Shot ##
 ![Android开发界面][1]
 
