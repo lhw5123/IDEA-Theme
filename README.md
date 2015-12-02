@@ -19,7 +19,7 @@ Color Palette
 ## Screen Shot ##
 ![Android开发界面][1]
 
-![此处输入图片的描述][2]
+![Java开发界面][2]
 
-  [1]: http://7xibef.com1.z0.glb.clouddn.com/theme-hevin-android.png?imageView2/2/w/203/h/203&e=1449113650&token=ltDB8YeamxKVvnUHhOzf2pGyYhVfS3K0oDKLcAJ4:lKOEtgPLsYca-9z_bWEKUZcA0Is
-  [2]: http://7xibef.com1.z0.glb.clouddn.com/theme-hevin-java.png?imageView2/2/w/203/h/203&e=1449113765&token=ltDB8YeamxKVvnUHhOzf2pGyYhVfS3K0oDKLcAJ4:cQV_pSYRUpjALOgAytTUFIOa6gk
+[1]: https://ooo.0o0.ooo/2015/12/01/565e68a46090a.png
+[2]: https://ooo.0o0.ooo/2015/12/01/565e68a4656f9.png
