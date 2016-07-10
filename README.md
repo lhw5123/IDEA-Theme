@@ -17,12 +17,12 @@ Color Palette
 | Violet | \#C792EA  | 199 146 234 |
 
 ## Usage ##
-下载.jar格式的主题，打开IDEA，点击Import Settings，然后选择下载的主题即可。
+下载 .jar 格式的主题，打开 JetBrains 系 IDE，点击 Import Settings，然后选择下载的主题即可。
 
 ## Screen Shot ##
-![Android开发界面][1]
+![Android][1]
 
-![Java开发界面][2]
+![HTML][2]
 
-[1]: https://ooo.0o0.ooo/2015/12/01/565e68a46090a.png
-[2]: https://ooo.0o0.ooo/2015/12/01/565e68a4656f9.png
+[1]: http://oa3d466mn.bkt.clouddn.com/ThemeHevin_Android.png
+[2]: http://oa3d466mn.bkt.clouddn.com/ThemeHevin_Html.png
